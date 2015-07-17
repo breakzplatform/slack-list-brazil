@@ -4,14 +4,14 @@
 
 ## Desenvolvimento
 
-Badge | Link
------ | ----
-![Participantes](http://braziljs-slack.herokuapp.com/badge.svg) | [BrazilJS](http://braziljs.slack.com/)
-![Participantes](http://frontendbrasil-slack.herokuapp.com/badge.svg) | [Front End Brazil](http://frontendbrasil.slack.com/)
-![Participantes](http://ionicbrazil.herokuapp.com/badge.svg) | [Ionic Brazil](http://ionicbrazil.slack.com/)
-![Participantes](http://devmt.herokuapp.com/badge.svg) | [Dev Mato Grosso](http://devmt.slack.com/)
-![Participantes](http://androiddevbr.herokuapp.com/badge.svg) | [Android Dev BR](http://androiddevbr.herokuapp.com/)
-![Participantes](http://slack.minasdev.org/badge.svg) | [Minas Dev](http://slack.minasdev.org/)
+Badge | Link | Participar
+----- | ---- | ----
+![Participantes](http://braziljs-slack.herokuapp.com/badge.svg) | [BrazilJS](http://braziljs.slack.com/) | [Participar](http://braziljs-slack.herokuapp.com/)
+![Participantes](http://frontendbrasil-slack.herokuapp.com/badge.svg) | [Front End Brazil](http://frontendbrasil.slack.com/) | [Participar](http://frontendbrasil-slack.herokuapp.com/)
+![Participantes](http://ionicbrazil.herokuapp.com/badge.svg) | [Ionic Brazil](http://ionicbrazil.slack.com/) | [Participar](http://ionicbrazil.herokuapp.com/)
+![Participantes](http://devmt.herokuapp.com/badge.svg) | [Dev Mato Grosso](http://devmt.slack.com/) | [Participar](http://devmt.herokuapp.com/)
+![Participantes](http://androiddevbr.herokuapp.com/badge.svg) | [Android Dev BR](http://androiddevbr.herokuapp.com/) | [Participar](http://androiddevbr.herokuapp.com/)
+![Participantes](http://slack.minasdev.org/badge.svg) | [Minas Dev](http://slack.minasdev.org/) | [Participar](http://slack.minasdev.org/)
 ![Participantes](http://pbjs-slack.herokuapp.com/badge.svg) | [ParaibaJS](http://pbjs-slack.herokuapp.com/)
  | [PHPSP](www.phpsp.org.br) - Ainda sem auto-join, enviar e-mail com solicitação para contato@phpsp.org.br
  | [Zf-Brasil](http://cursozendframework.us9.list-manage1.com/subscribe?u=9db4cec7580bae325d77b71bf&id=a6e2821d9a)
@@ -23,10 +23,10 @@ Badge | Link
 
 ## Empreendedorismo
 
-Badge | Link
------ | ----
--     | [Startup PE](http://startupe.slack.com)
-![Participantes](http://ssg-slack.herokuapp.com/badge.svg) | [Startup Study Group](http://ssg-slack.slack.com) *canal #brazil
+Badge | Link | Participar
+----- | ---- | ----
+ | [Startup PE](http://startupe.slack.com)
+![Participantes](http://ssg-slack.herokuapp.com/badge.svg) | [Startup Study Group](http://ssg-slack.slack.com) *canal #brazil | [Participar](http://ssg-slack.herokuapp.com/)
 
 
 ## Outros
