@@ -10,6 +10,7 @@ Lista de Slacks interessantes para se participar, feitos no Brasil.
 
 # Empreendedorismo
 - [Startup PE](http://startupe.slack.com)
+- ![Participar](http://ssg-slack.herokuapp.com/badge.svg)[Startup Study Group] *canal #brazil em pt-br 
 
 ## Contribua
 Faça um fork e mande uma PR para aumentar essa lista :)
