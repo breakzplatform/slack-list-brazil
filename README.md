@@ -3,15 +3,15 @@
 Lista de Slacks interessantes para se participar, feitos no Brasil.
 
 # Desenvolvimento
-- ![Participar](http://braziljs-slack.herokuapp.com/badge.svg) [BrazilJS](http://braziljs.slack.com)
-- ![Participar](http://frontendbrasil-slack.herokuapp.com/badge.svg) [Front End Brazil](http://frontendbrasil.slack.com)
-- ![Participar](http://ionicbrazil.herokuapp.com/badge.svg) [Ionic Brazil](http://ionicbrazil.slack.com)
-- ![Participar](http://devmt.herokuapp.com/badge.svg) [Dev Mato Grosso](http://devmt.slack.com)
-- ![Participar](http://androiddevbr.herokuapp.com/badge.svg) [Android Dev BR](http://androiddevbr.herokuapp.com/)
+- ![Participantes](http://braziljs-slack.herokuapp.com/badge.svg) [BrazilJS](http://braziljs.slack.com)
+- ![Participantes](http://frontendbrasil-slack.herokuapp.com/badge.svg) [Front End Brazil](http://frontendbrasil.slack.com)
+- ![Participantes](http://ionicbrazil.herokuapp.com/badge.svg) [Ionic Brazil](http://ionicbrazil.slack.com)
+- ![Participantes](http://devmt.herokuapp.com/badge.svg) [Dev Mato Grosso](http://devmt.slack.com)
+- ![Participantes](http://androiddevbr.herokuapp.com/badge.svg) [Android Dev BR](http://androiddevbr.herokuapp.com/)
 
 # Empreendedorismo
 - [Startup PE](http://startupe.slack.com)
-- ![Participar](http://ssg-slack.herokuapp.com/badge.svg)[Startup Study Group] *canal #brazil em pt-br 
+- ![Participantes](http://ssg-slack.herokuapp.com/badge.svg)[Startup Study Group](http://ssg-slack.slack.com) *canal #brazil em pt-br 
 
 # Outros 
 - [Estratégias de Investimento](https://docs.google.com/forms/d/17OecElQDB9Fyt56bKQMDdvmwQZnnpQPBFzUOrTDgZJ0/viewform?c=0&w=1)
