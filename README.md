@@ -19,6 +19,7 @@ Badge | Link | Participar
 ![Participantes](http://slack.laravel.com.br/badge.svg) | [Laravel](http://slack.laravel.com.br/)
  | [Dev IO Fotaleza](http://deviofor.github.io/)
 ![Participantes](http://meteor-brasil.herokuapp.com/badge.svg) | [Meteor Brasil](https://meteor-brasil.slack.com/)
+![Participantes](http://gdgbrazil.herokuapp.com/badge.svg) | [GDG Brasil](http://gdgbrazil.slack.com) | [Participar](http://gdgbrazil.slack.com)
 
 
 ## Empreendedorismo
@@ -36,7 +37,7 @@ Badge | Link
 - | [Estratégias de Investimento](https://docs.google.com/forms/d/17OecElQDB9Fyt56bKQMDdvmwQZnnpQPBFzUOrTDgZJ0/viewform?c=0&w=1)
 
 
-## Contribua
+### Contribua
 
 Faça um fork e mande uma PR para aumentar essa lista.  
 :beers:
