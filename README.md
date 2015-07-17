@@ -9,6 +9,10 @@ Lista de Slacks interessantes para se participar, feitos no Brasil.
 - ![Participantes](http://devmt.herokuapp.com/badge.svg) [Dev Mato Grosso](http://devmt.slack.com)
 - ![Participantes](http://androiddevbr.herokuapp.com/badge.svg) [Android Dev BR](http://androiddevbr.herokuapp.com/)
 - ![Participantes](http://slack.minasdev.org/badge.svg) [Minas Dev](http://slack.minasdev.org/)
+- [PHPSP](www.phpsp.org.br) - Ainda sem auto-join, enviar e-mail com solicitação para contato@phpsp.org.br
+- [Zf-Brasil](http://cursozendframework.us9.list-manage1.com/subscribe?u=9db4cec7580bae325d77b71bf&id=a6e2821d9a)
+- ![Participantes](http://docker-br.herokuapp.com/badge.svg) [Docker-br](http://docker-br.herokuapp.com/)
+- ![Participantes](http://slack.laravel.com.br/badge.svg) [Laravel](http://slack.laravel.com.br/)
 
 # Empreendedorismo
 - [Startup PE](http://startupe.slack.com)
