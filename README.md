@@ -31,7 +31,9 @@ Badge | Link
 
 ## Outros
 
-[Estratégias de Investimento](https://docs.google.com/forms/d/17OecElQDB9Fyt56bKQMDdvmwQZnnpQPBFzUOrTDgZJ0/viewform?c=0&w=1)
+Badge | Link
+----- | ----
+- | [Estratégias de Investimento](https://docs.google.com/forms/d/17OecElQDB9Fyt56bKQMDdvmwQZnnpQPBFzUOrTDgZJ0/viewform?c=0&w=1)
 
 
 ## Contribua
