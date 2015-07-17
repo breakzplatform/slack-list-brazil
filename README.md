@@ -22,6 +22,8 @@ Badge | Link | Participar
 ![Participantes](http://gdgbrazil.herokuapp.com/badge.svg) | [GDG Brasil](http://gdgbrazil.slack.com) | [Participar](http://gdgbrazil.slack.com)
 - | [WordPress Brasil](http://wpbrasil.slack.com/) | [Participar](http://slack-wpbrasil.herokuapp.com/)
 - | [Meetup Front-ABC](http://www.meetup.com/pt/front-abc/) | [Participar](http://goo.gl/forms/Al4unhUVTC)
+- | [grupy-df]() | [Participar](https://grupydf.herokuapp.com)
+- | [grupy-rp]() | [Participar](https://grupyrp.herokuapp.com)
 
 
 
