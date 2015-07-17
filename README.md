@@ -14,6 +14,8 @@ Lista de Slacks interessantes para se participar, feitos no Brasil.
 - [Zf-Brasil](http://cursozendframework.us9.list-manage1.com/subscribe?u=9db4cec7580bae325d77b71bf&id=a6e2821d9a)
 - ![Participantes](http://docker-br.herokuapp.com/badge.svg) [Docker-br](http://docker-br.herokuapp.com/)
 - ![Participantes](http://slack.laravel.com.br/badge.svg) [Laravel](http://slack.laravel.com.br/)
+- [Dev IO Fotaleza](http://deviofor.github.io/)
+
 
 # Empreendedorismo
 - [Startup PE](http://startupe.slack.com)
