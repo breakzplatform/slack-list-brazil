@@ -21,6 +21,8 @@ Badge | Link | Participar
 ![Participantes](http://meteor-brasil.herokuapp.com/badge.svg) | [Meteor Brasil](https://meteor-brasil.slack.com/) | [Participar](http://meteor-brasil.herokuapp.com)
 ![Participantes](http://gdgbrazil.herokuapp.com/badge.svg) | [GDG Brasil](http://gdgbrazil.slack.com) | [Participar](http://gdgbrazil.slack.com)
 - | [WordPress Brasil](http://wpbrasil.slack.com/) | [Participar](http://slack-wpbrasil.herokuapp.com/)
+- | [Meetup Front-ABC](http://www.meetup.com/pt/front-abc/) | http://goo.gl/forms/Al4unhUVTC
+
 
 
 ## Empreendedorismo
@@ -40,5 +42,5 @@ Badge | Link
 
 ### Contribua
 
-Faça um fork e mande uma PR para aumentar essa lista.  
+Faça um fork e mande uma PR para aumentar essa lista.
 :beers:
