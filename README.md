@@ -24,6 +24,7 @@ Badge | Link | Participar
 - | [Meetup Front-ABC](http://www.meetup.com/pt/front-abc/) | [Participar](http://goo.gl/forms/Al4unhUVTC)
 - | [grupy-df](http://grupydf.github.io/) | [Participar](https://grupydf.herokuapp.com)
 - | [grupy-rp]() | [Participar](https://grupyrp.herokuapp.com)
+- | [Desenvolvedores RJ](http://devrj.slack.com) | [Participar](http://bit.ly/slackDevRJ)
 
 
 
