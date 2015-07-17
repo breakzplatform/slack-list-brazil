@@ -6,6 +6,7 @@ Lista de Slacks interessantes para se participar, feitos no Brasil.
 - [BrazilJS](http://braziljs.slack.com)
 - [Front End Brazil](http://frontendbrasil.slack.com)
 - [Ionic Brazil](http://ionicbrazil.slack.com)
+- [Minas Dev](http://minasdev.slack.com)
 
 # Empreendedorismo
 - [Startup PE](http://startupe.slack.com)
