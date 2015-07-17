@@ -19,7 +19,7 @@ Badge | Link | Participar
 ![Participantes](http://slack.laravel.com.br/badge.svg) | Laravel | [Participar](http://slack.laravel.com.br/)
 - | Dev IO Fotaleza | [Participar](http://deviofor.github.io/)
 ![Participantes](http://meteor-brasil.herokuapp.com/badge.svg) | [Meteor Brasil](https://meteor-brasil.slack.com/) | [Participar](http://meteor-brasil.herokuapp.com)
-![Participantes](http://gdgbrazil.herokuapp.com/badge.svg) | [GDG Brasil](http://gdgbrazil.slack.com) | [Participar]((http://gdgbrazil.herokuapp.com/)
+![Participantes](http://gdgbrazil.herokuapp.com/badge.svg) | [GDG Brasil](http://gdgbrazil.slack.com) | [Participar](http://gdgbrazil.herokuapp.com/)
 - | [WordPress Brasil](http://wpbrasil.slack.com/) | [Participar](http://slack-wpbrasil.herokuapp.com/)
 - | [Meetup Front-ABC](http://www.meetup.com/pt/front-abc/) | [Participar](http://goo.gl/forms/Al4unhUVTC)
 
