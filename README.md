@@ -9,6 +9,7 @@ Lista de Slacks interessantes para se participar, feitos no Brasil.
 - ![Participantes](http://devmt.herokuapp.com/badge.svg) [Dev Mato Grosso](http://devmt.slack.com)
 - ![Participantes](http://androiddevbr.herokuapp.com/badge.svg) [Android Dev BR](http://androiddevbr.herokuapp.com/)
 - ![Participantes](http://slack.minasdev.org/badge.svg) [Minas Dev](http://slack.minasdev.org/)
+- ![Participantes](http://pbjs-slack.herokuapp.com/badge.svg) [ParaibaJS](http://pbjs-slack.herokuapp.com/)
 
 # Empreendedorismo
 - [Startup PE](http://startupe.slack.com)
