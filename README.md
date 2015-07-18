@@ -1,4 +1,4 @@
-![Slack List Brazil](res/logo.png)
+![Slack List Brazil](res/logo.jpg)
 
 > Curadoria de Slacks no Brasil para você participar.
 
