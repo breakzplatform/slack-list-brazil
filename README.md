@@ -32,7 +32,7 @@ Badge | Link | Participar
 
 Badge | Link | Participar
 ----- | ---- | ----
-- | [Startup PE](http://startupe.slack.com) | [Participar](http://gdgbrazil.slack.com)
+- | [Startup PE](http://startupe.slack.com) | [Participar](https://startuppe-slack.herokuapp.com/)
 ![Participantes](http://ssg-slack.herokuapp.com/badge.svg) | [Startup Study Group](http://ssg-slack.slack.com) *canal #brazil | [Participar](http://ssg-slack.herokuapp.com/)
 
 
