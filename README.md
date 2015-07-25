@@ -26,6 +26,7 @@ Badge | Link | Participar
 - | [grupy-df](http://grupydf.github.io/) | [Participar](https://grupydf.herokuapp.com)
 - | [grupy-rp]() | [Participar](https://grupyrp.herokuapp.com)
 - | [Acessibilidade Web Brasil](http://a11y-brazil.slack.com) | [Participar](http://a11y-brazil.herokuapp.com/)
+- | [Angular Buddies](http://angularbuddies.com/) | [Participar](https://pocket1.typeform.com/to/agYVyz)
 
 
 ## Empreendedorismo
