@@ -7,7 +7,7 @@
 
 Badge | Link | Participar
 ----- | ---- | ----
-- | NodeBR | [Participar](https://slack.nodebr.org) 
+![Participantes](https://slack.nodebr.org/api/v1/badge/users?type=svg) | NodeBR | [Participar](https://slack.nodebr.org) 
 ![Participantes](http://braziljs-slack.herokuapp.com/badge.svg) | [BrazilJS](http://braziljs.slack.com/) | [Participar](http://braziljs-slack.herokuapp.com/)
 ![Participantes](http://frontendbrasil-slack.herokuapp.com/badge.svg) | [Front End Brazil](http://frontendbrasil.slack.com/) | [Participar](http://frontendbrasil-slack.herokuapp.com/)
 ![Participantes](http://ionicbrazil.herokuapp.com/badge.svg) | [Ionic Brazil](http://ionicbrazil.slack.com/) | [Participar](http://ionicbrazil.herokuapp.com/)
