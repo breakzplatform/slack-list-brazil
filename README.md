@@ -29,7 +29,7 @@ Badge | Link | Participar
 - | [Acessibilidade Web Brasil](http://a11y-brazil.slack.com) | [Participar](http://a11y-brazil.herokuapp.com/)
 - | [Angular Buddies](http://angularbuddies.com/) | [Participar](https://pocket1.typeform.com/to/agYVyz)
 - | [Python Brasil](https://pythonbrasil.slack.com) | [Participar](http://slack-pythonbrasil.herokuapp.com/)
-- | [DotNetBR]() | [Participar](http://dotnetbr.slack.com/)
+![Participantes](http://dotnetbr.azurewebsites.net/Home/Presence) | [DotNetBR](http://dotnetbr.slack.com/) | [Participar](http://dotnetbr.azurewebsites.net/)
 ## Empreendedorismo
 
 Badge | Link | Participar
