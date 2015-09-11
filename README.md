@@ -13,6 +13,7 @@ Badge | Link | Participar
 ![Participantes](http://ionicbrazil.herokuapp.com/badge.svg) | [Ionic Brazil](http://ionicbrazil.slack.com/) | [Participar](http://ionicbrazil.herokuapp.com/)
 ![Participantes](http://devmt.herokuapp.com/badge.svg) | [Dev Mato Grosso](http://devmt.slack.com/) | [Participar](http://devmt.herokuapp.com/)
 ![Participantes](http://androiddevbr.herokuapp.com/badge.svg) | Android Dev BR | [Participar](http://androiddevbr.herokuapp.com/)
+![Participantes](http://iosdevbr.herokuapp.com/badge.svg) | iOS Dev BR | [Participar](http://iosdevbr.herokuapp.com/)
 ![Participantes](http://slack.minasdev.org/badge.svg) | Minas Dev | [Participar](http://slack.minasdev.org/)
 ![Participantes](http://pbjs-slack.herokuapp.com/badge.svg) | ParaibaJS | [Participar](http://pbjs-slack.herokuapp.com/)
 ![Participantes](https://slaking-phpsp.herokuapp.com/badge.svg) | [PHPSP](http://www.phpsp.org.br) | [Participar](https://slaking-phpsp.herokuapp.com/)
