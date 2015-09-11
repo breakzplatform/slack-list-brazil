@@ -37,7 +37,7 @@ Badge | Link | Participar
 ----- | ---- | ----
 - | [Startup PE](http://startupe.slack.com) | [Participar](https://startuppe-slack.herokuapp.com/)
 ![Participantes](http://ssg-slack.herokuapp.com/badge.svg) | [Startup Study Group](http://ssg-slack.slack.com) *canal #brazil | [Participar](http://ssg-slack.herokuapp.com/)
-![Participantes](http://supbra-slack.herokuapp.com/badge.svg)| [Startup Brasil](http://supbra.slack.com/)|[Participar](https://supbra-slack.herokuapp.com/)
+- | [Startup Brasil](http://supbra.slack.com/)|[Participar](https://supbra-slack.herokuapp.com/)
 
 
 ## Outros
