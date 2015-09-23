@@ -22,7 +22,7 @@ Badge | Link | Participar
 ![Participantes](http://iosdevbr.herokuapp.com/badge.svg) | iOS Dev BR | [Participar](http://iosdevbr.herokuapp.com/)
 ![Participantes](http://slack.laravel.com.br/badge.svg) | Laravel | [Participar](http://slack.laravel.com.br/)
 ![Participantes](http://meteor-brasil.herokuapp.com/badge.svg) | [Meteor Brasil](https://meteor-brasil.slack.com/) | [Participar](http://meteor-brasil.herokuapp.com)
-- | [Meetup Front-ABC](http://www.meetup.com/pt/front-abc/) | [Participar](http://goo.gl/forms/Al4unhUVTC)
+[![Slack Status](https://slackfrontabc.herokuapp.com/badge.svg)](https://slackfrontabc.herokuapp.com "Grupo Front ABC")- | [Grupo Front-ABC](https://github.com/front-abc "Grupo Front ABC") | slackfrontabc.herokuapp.com
 ![Participantes](http://slack.minasdev.org/badge.svg) | Minas Dev | [Participar](http://slack.minasdev.org/)
 - | [.Net Architects](http://dotnetarchitects.slack.com/) | [Participar](http://dotnetarchitects.azurewebsites.net/)
 ![Participantes](https://slack.nodebr.org/api/v1/badge/users?type=svg) | [NodeBR](http://nodebr.slack.com/) | [Participar](https://slack.nodebr.org) 
