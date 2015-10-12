@@ -10,6 +10,7 @@ Badge | Link | Participar
 - | [Acessibilidade Web Brasil](http://a11y-brazil.slack.com/badge.svg) | [Participar](http://a11y-brazil.herokuapp.com/)
 ![Participantes](http://androiddevbr.herokuapp.com/badge.svg) | Android Dev BR | [Participar](http://androiddevbr.herokuapp.com/)
 - | [Angular Buddies](http://angularbuddies.com/) | [Participar](https://pocket1.typeform.com/to/agYVyz)
+![Participantes](https://angularjsbrasil.herokuapp.com/badge.svg) | [AngularJs Brasil](http://angularjsbrasil.com.br/) | [Participar](https://angularjsbrasil.herokuapp.com/)
 ![Participantes](http://braziljs-slack.herokuapp.com/badge.svg) | [BrazilJS](http://braziljs.slack.com/) | [Participar](http://braziljs-slack.herokuapp.com/)
 - | Dev IO Fortaleza | [Participar](http://deviofor.github.io/)
 ![Participantes](http://devmt.herokuapp.com/badge.svg) | [Dev Mato Grosso](http://devmt.slack.com/) | [Participar](http://devmt.herokuapp.com/)
