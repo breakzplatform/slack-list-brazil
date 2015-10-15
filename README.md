@@ -7,7 +7,7 @@
 
 Badge | Link | Participar
 ----- | ---- | ----
-- | [Acessibilidade Web Brasil](http://a11y-brazil.slack.com/badge.svg) | [Participar](http://a11y-brazil.herokuapp.com/)
+- | [Acessibilidade Web Brasil](http://a11y-brazil.slack.com/) | [Participar](http://a11y-brazil.herokuapp.com/)
 ![Participantes](http://androiddevbr.herokuapp.com/badge.svg) | Android Dev BR | [Participar](http://androiddevbr.herokuapp.com/)
 - | [Angular Buddies](http://angularbuddies.com/) | [Participar](https://pocket1.typeform.com/to/agYVyz)
 ![Participantes](https://angularjsbrasil.herokuapp.com/badge.svg) | [AngularJs Brasil](http://angularjsbrasil.com.br/) | [Participar](https://angularjsbrasil.herokuapp.com/)
