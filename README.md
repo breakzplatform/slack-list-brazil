@@ -23,6 +23,7 @@ Badge | Link | Participar
 ![Participantes](http://ionicbrazil.herokuapp.com/badge.svg) | [Ionic Brazil](http://ionicbrazil.slack.com/) | [Participar](http://ionicbrazil.herokuapp.com/)
 ![Participantes](http://iosdevbr.herokuapp.com/badge.svg) | iOS Dev BR | [Participar](http://iosdevbr.herokuapp.com/)
 ![Participantes](http://slack.laravel.com.br/badge.svg) | Laravel | [Participar](http://slack.laravel.com.br/)
+![Participantes](https://magentobr.herokuapp.com/badge.svg) | [Magento Br](http://magentobr.slack.com/) | [Participar](https://magentobr.herokuapp.com/)
 ![Participantes](http://meteor-brasil.herokuapp.com/badge.svg) | [Meteor Brasil](https://meteor-brasil.slack.com/) | [Participar](http://meteor-brasil.herokuapp.com)
 ![Participantes](http://slack.minasdev.org/badge.svg) | Minas Dev | [Participar](http://slack.minasdev.org/)
 - | [.Net Architects](http://dotnetarchitects.slack.com/) | [Participar](http://dotnetarchitects.azurewebsites.net/)
