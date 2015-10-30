@@ -49,6 +49,12 @@ Badge | Link
 - | [Estratégias de Investimento](https://docs.google.com/forms/d/17OecElQDB9Fyt56bKQMDdvmwQZnnpQPBFzUOrTDgZJ0/viewform?c=0&w=1)
 
 
+## Empreendedorismo
+
+Badge | Link | Participar
+----- | ---- | ----
+![Participantes](http://infrabrasil.herokuapp.com/badge.svg) | [Infra Brasil](http://infrabrasil.slack.com/) | [Participar](http://infrabrasil.herokuapp.com/)
+
 ### Contribua
 
 Faça um fork e mande uma PR para aumentar essa lista.
