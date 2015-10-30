@@ -33,6 +33,16 @@ Badge | Link | Participar
 - | [WordPress Brasil](http://wpbrasil.slack.com/) | [Participar](http://slack-wpbrasil.herokuapp.com/)
 - | Zf-Brasil | [Participar](http://cursozendframework.us9.list-manage1.com/subscribe?u=9db4cec7580bae325d77b71bf&id=a6e2821d9a)
 
+
+
+## Infraestrutura de TI
+
+Badge | Link | Participar
+----- | ---- | ----
+![Participantes](http://infrabrasil.herokuapp.com/badge.svg) | [Infra Brasil](http://infrabrasil.slack.com/) | [Participar](http://infrabrasil.herokuapp.com/)
+
+
+
 ## Empreendedorismo
 
 Badge | Link | Participar
@@ -47,13 +57,6 @@ Badge | Link | Participar
 Badge | Link
 ----- | ----
 - | [Estratégias de Investimento](https://docs.google.com/forms/d/17OecElQDB9Fyt56bKQMDdvmwQZnnpQPBFzUOrTDgZJ0/viewform?c=0&w=1)
-
-
-## Empreendedorismo
-
-Badge | Link | Participar
------ | ---- | ----
-![Participantes](http://infrabrasil.herokuapp.com/badge.svg) | [Infra Brasil](http://infrabrasil.slack.com/) | [Participar](http://infrabrasil.herokuapp.com/)
 
 ### Contribua
 
