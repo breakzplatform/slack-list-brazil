@@ -22,7 +22,7 @@ Badge | Link | Participar
 [![Slack Status](https://slackfrontabc.herokuapp.com/badge.svg)](https://slackfrontabc.herokuapp.com "Grupo Front ABC") | [Grupo Front ABC](https://github.com/front-abc "Grupo Front ABC") | [Participar](https://slackfrontabc.herokuapp.com)
 - | [grupy-df](http://grupydf.github.io/) | [Participar](https://grupydf.herokuapp.com)
 - | [grupy-rp]() | [Participar](https://grupyrp.herokuapp.com)
-![Participantes](http://ionicbrazil.herokuapp.com/badge.svg) | [Ionic Brazil](http://ionicbrazil.slack.com/) | [Participar](http://ionicbrazil.herokuapp.com/)
+![Participantes](http://ionicbrazilslack.herokuapp.com/badge.svg) | [Ionic Brazil](http://ionicbrazil.slack.com/) | [Participar](http://ionicbrazilslack.herokuapp.com/)
 ![Participantes](http://iosdevbr.herokuapp.com/badge.svg) | iOS Dev BR | [Participar](http://iosdevbr.herokuapp.com/)
 ![Participantes](http://slack.laravel.com.br/badge.svg) | Laravel | [Participar](http://slack.laravel.com.br/)
 ![Participantes](https://magentobr.herokuapp.com/badge.svg) | [Magento Br](http://magentobr.slack.com/) | [Participar](https://magentobr.herokuapp.com/)
