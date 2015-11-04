@@ -14,7 +14,11 @@ Badge | Link | Participar
 ![Participantes](http://braziljs-slack.herokuapp.com/badge.svg) | [BrazilJS](http://braziljs.slack.com/) | [Participar](http://braziljs-slack.herokuapp.com/)
 - | Dev IO Fortaleza | [Participar](http://deviofor.github.io/)
 ![Participantes](http://devmt.herokuapp.com/badge.svg) | [Dev Mato Grosso](http://devmt.slack.com/) | [Participar](http://devmt.herokuapp.com/)
+<<<<<<< HEAD
 ![Participantes](https://devops-br-slack.herokuapp.com/badge.svg) | [DevOps BR](https://devopsbr.slack.com/) | [Participar](http://devops-br-slack.herokuapp.com)
+=======
+![Participantes](http://devparana.herokuapp.com/badge.svg) | [Dev Paraná](http://devparana.slack.com/) | [Participar](http://devparana.herokuapp.com/)
+>>>>>>> 97a0bd61607d5b20c292023a91007ea2963c7d1a
 ![Participantes](http://docker-br.herokuapp.com/badge.svg) | Docker-BR | [Participar](http://docker-br.herokuapp.com/)
 ![Participantes](http://frontendbrasil-slack.herokuapp.com/badge.svg) | [Front End Brazil](http://frontendbrasil.slack.com/) | [Participar](http://frontendbrasil-slack.herokuapp.com/)
 ![Participantes](https://frontendcampinas.herokuapp.com/badge.svg) | [FrontEnd Campinas](https://frontendcampinas.slack.com) | [Participar](https://frontendcampinas.herokuapp.com/)
