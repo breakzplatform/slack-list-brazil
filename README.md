@@ -10,7 +10,7 @@ Badge | Link | Participar
 - | [Acessibilidade Web Brasil](http://a11y-brazil.slack.com/) | [Participar](http://a11y-brazil.herokuapp.com/)
 ![Participantes](http://androiddevbr.herokuapp.com/badge.svg) | Android Dev BR | [Participar](http://androiddevbr.herokuapp.com/)
 - | [Angular Buddies](http://angularbuddies.com/) | [Participar](https://pocket1.typeform.com/to/agYVyz)
-![Participantes](https://angularjsbrasil.herokuapp.com/badge.svg) | [AngularJs Brasil](http://angularjsbrasil.com.br/) | [Participar](https://angularjsbrasil.herokuapp.com/)
+![Participantes](https://angularbrasil.herokuapp.com/badge.svg) | [Angular Brasil](http://angularjsbrasil.com.br/) | [Participar](https://angularbrasil.herokuapp.com/)
 ![Participantes](http://braziljs-slack.herokuapp.com/badge.svg) | [BrazilJS](http://braziljs.slack.com/) | [Participar](http://braziljs-slack.herokuapp.com/)
 - | Dev IO Fortaleza | [Participar](http://deviofor.github.io/)
 ![Participantes](http://devmt.herokuapp.com/badge.svg) | [Dev Mato Grosso](http://devmt.slack.com/) | [Participar](http://devmt.herokuapp.com/)
@@ -25,6 +25,7 @@ Badge | Link | Participar
 ![Participantes](http://ionicbrazil.herokuapp.com/badge.svg) | [Ionic Brazil](http://ionicbrazil.slack.com/) | [Participar](http://ionicbrazil.herokuapp.com/)
 ![Participantes](http://iosdevbr.herokuapp.com/badge.svg) | iOS Dev BR | [Participar](http://iosdevbr.herokuapp.com/)
 ![Participantes](http://slack.laravel.com.br/badge.svg) | Laravel | [Participar](http://slack.laravel.com.br/)
+![Participantes](https://magentobr.herokuapp.com/badge.svg) | [Magento Br](http://magentobr.slack.com/) | [Participar](https://magentobr.herokuapp.com/)
 ![Participantes](http://meteor-brasil.herokuapp.com/badge.svg) | [Meteor Brasil](https://meteor-brasil.slack.com/) | [Participar](http://meteor-brasil.herokuapp.com)
 ![Participantes](http://slack.minasdev.org/badge.svg) | Minas Dev | [Participar](http://slack.minasdev.org/)
 - | [.Net Architects](http://dotnetarchitects.slack.com/) | [Participar](http://dotnetarchitects.azurewebsites.net/)
@@ -33,6 +34,7 @@ Badge | Link | Participar
 ![Participantes](https://slaking-phpsp.herokuapp.com/badge.svg) | [PHPSP](http://www.phpsp.org.br) | [Participar](https://slaking-phpsp.herokuapp.com/)
 - | [Python Brasil](https://pythonbrasil.slack.com) | [Participar](http://slack-pythonbrasil.herokuapp.com/)
 - | [WordPress Brasil](http://wpbrasil.slack.com/) | [Participar](http://slack-wpbrasil.herokuapp.com/)
+![Participantes](https://zendbrasil.herokuapp.com/badge.svg) | [Zend Brasil](http://zendbrasil.github.io/) | [Participar](https://zendbrasil.herokuapp.com/)
 - | Zf-Brasil | [Participar](http://cursozendframework.us9.list-manage1.com/subscribe?u=9db4cec7580bae325d77b71bf&id=a6e2821d9a)
 
 ## Empreendedorismo
