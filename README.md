@@ -54,10 +54,16 @@ Badge | Link | Participar
 - | [Startup PE](http://startupe.slack.com) | [Participar](https://startuppe-slack.herokuapp.com/)
 ![Participantes](http://ssg-slack.herokuapp.com/badge.svg) | [Startup Study Group](http://ssg-slack.slack.com) *canal #brazil | [Participar](http://ssg-slack.herokuapp.com/)
 
+## Gringos
+
+Badge | Link | Participar
+----- | ---- | ----
+- | [WordPress](https://wordpress.slack.com/)|[Participar](https://make.wordpress.org/chat/)
+
 
 ## Outros
 
-Badge | Link
+Badge | Link  
 ----- | ----
 - | [Estratégias de Investimento](https://docs.google.com/forms/d/17OecElQDB9Fyt56bKQMDdvmwQZnnpQPBFzUOrTDgZJ0/viewform?c=0&w=1)
 
