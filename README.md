@@ -37,6 +37,7 @@ Badge | Link | Participar
 - | [WordPress Brasil](http://wpbrasil.slack.com/) | [Participar](http://slack-wpbrasil.herokuapp.com/)
 ![Participantes](https://zendbrasil.herokuapp.com/badge.svg) | [Zend Brasil](http://zendbrasil.github.io/) | [Participar](https://zendbrasil.herokuapp.com/)|
 - | Zf-Brasil | [Participar](http://cursozendframework.us9.list-manage1.com/subscribe?u=9db4cec7580bae325d77b71bf&id=a6e2821d9a)
+- ![Participantes](https://phpsc-slackin.herokuapp.com/badge.svg) | [PHPSC](http://www.phpsc.com.br) | [Participar](https://phpsc-slackin.herokuapp.com/)
 
 ## Infraestrutura de TI
 
