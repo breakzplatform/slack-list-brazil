@@ -20,6 +20,7 @@ Badge | Link | Participar
 ![Participantes](http://meteor-brasil.herokuapp.com/badge.svg) | [Meteor Brasil](https://meteor-brasil.slack.com/) | [Participar](http://meteor-brasil.herokuapp.com)
 - | [.Net Architects](http://dotnetarchitects.slack.com/) | [Participar](http://dotnetarchitects.azurewebsites.net/)
 ![Participantes](https://slack.nodebr.org/api/v1/badge/users?type=svg) | [NodeBR](http://nodebr.slack.com/) | [Participar](https://slack.nodebr.org)
+![Participantes](https://phpsc-slackin.herokuapp.com/badge.svg) | [PHPSC](http://www.phpsc.com.br) | [Participar](https://phpsc-slackin.herokuapp.com/)
 ![Participantes](https://slaking-phpsp.herokuapp.com/badge.svg) | [PHPSP](http://www.phpsp.org.br) | [Participar](https://slaking-phpsp.herokuapp.com/)
 - | [Python Brasil](https://pythonbrasil.slack.com) | [Participar](http://slack-pythonbrasil.herokuapp.com/)
 ![Participantes](https://zendbrasil.herokuapp.com/badge.svg) | [Zend Brasil](http://zendbrasil.github.io/) | [Participar](https://zendbrasil.herokuapp.com/)|
@@ -49,6 +50,7 @@ Badge | Link | Participar
 ![Participantes](http://devmt.herokuapp.com/badge.svg) | [Dev Mato Grosso](http://devmt.slack.com/) | [Participar](http://devmt.herokuapp.com/)|
 ![Participantes](https://devops-br-slack.herokuapp.com/badge.svg) | [DevOps BR](https://devopsbr.slack.com/) | [Participar](http://devops-br-slack.herokuapp.com)|
 - | [Dev Paraná](http://devparana.slack.com/) | [Participar](http://devparana.herokuapp.com/)|
+- | [Dev RJ](https://devrj.slack.com/) | [Participar](https://devrj.slack.com/)|
 ![Participantes](http://docker-br.herokuapp.com/badge.svg) | Docker-BR | [Participar](http://docker-br.herokuapp.com/)|
 ![Participantes](http://frontendbrasil-slack.herokuapp.com/badge.svg) | [Front End Brazil](http://frontendbrasil.slack.com/) | [Participar](http://frontendbrasil-slack.herokuapp.com/)
 ![Participantes](https://frontendcampinas.herokuapp.com/badge.svg) | [FrontEnd Campinas](https://frontendcampinas.slack.com) | [Participar](https://frontendcampinas.herokuapp.com/)
