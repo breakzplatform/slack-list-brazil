@@ -16,6 +16,7 @@ Badge | Link | Participar
 
 Badge | Link | Participar
 ----- | ---- | ----
+![Participantes](https://electronbrasil.herokuapp.com/badge.svg) | [Electron Brasil](http://electronbrasil.github.io/) | [Participar](https://electronbrasil.herokuapp.com/)|
 ![Participantes](http://slack.laravel.com.br/badge.svg) | Laravel | [Participar](http://slack.laravel.com.br/)
 ![Participantes](http://meteor-brasil.herokuapp.com/badge.svg) | [Meteor Brasil](https://meteor-brasil.slack.com/) | [Participar](http://meteor-brasil.herokuapp.com)
 - | [.Net Architects](http://dotnetarchitects.slack.com/) | [Participar](http://dotnetarchitects.azurewebsites.net/)
