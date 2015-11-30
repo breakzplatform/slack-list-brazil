@@ -72,6 +72,7 @@ Badge | Link | Participar
 
 Badge | Link | Participar
 ----- | ---- | ----
+- | [Cariocas](https://cariocas.slack.com/)|[Participar](https://cariocas.slack.com/)
 - | [Carreira Solo](https://carreirasolo-org.slack.com/)|[Participar](https://carreirasolo-org.slack.com/)
 - | [Startup Brasil](http://supbra.slack.com/)|[Participar](https://supbra-slack.herokuapp.com/)
 - | [Startup PE](http://startupe.slack.com) | [Participar](https://startuppe-slack.herokuapp.com/)
