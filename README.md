@@ -61,6 +61,7 @@ Badge | Link | Participar
 - | [grupy-rp]() | [Participar](https://grupyrp.herokuapp.com)
 ![Participantes](http://slack.minasdev.org/badge.svg) | Minas Dev | [Participar](http://slack.minasdev.org/) 
 ![Participantes](http://pbjs-slack.herokuapp.com/badge.svg) | ParaibaJS | [Participar](http://pbjs-slack.herokuapp.com/)
+- | DevIsland | [Participar](https://devisland.stamplayapp.com/)
 
 ## Infraestrutura de TI
 
