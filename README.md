@@ -60,7 +60,7 @@ Badge | Link | Participar
 - | [grupy-df](http://grupydf.github.io/) | [Participar](https://grupydf.herokuapp.com)
 - | [grupy-rp]() | [Participar](https://grupyrp.herokuapp.com)
 ![Participantes](http://slack.minasdev.org/badge.svg) | Minas Dev | [Participar](http://slack.minasdev.org/) 
-- | ParaibaJS | [Participar](http://pbjs-slack.herokuapp.com/)
+![Participantes](https://grudepb.herokuapp.com/badge.svg) | grude-pb | [Participar](https://grudepb.herokuapp.com/)
 - | [DevIsland](http://devisland.com/) | [Participar](https://devisland.stamplayapp.com/)
 
 ## Empreendedorismo
