@@ -63,12 +63,6 @@ Badge | Link | Participar
 - | ParaibaJS | [Participar](http://pbjs-slack.herokuapp.com/)
 - | [DevIsland](http://devisland.com/) | [Participar](https://devisland.stamplayapp.com/)
 
-## Infraestrutura de TI
-
-Badge | Link | Participar
------ | ---- | ----
-![Participantes](http://infrabrasil.herokuapp.com/badge.svg) | [Infra Brasil](http://infrabrasil.slack.com/) | [Participar](http://infrabrasil.herokuapp.com/)
-
 ## Empreendedorismo
 
 Badge | Link | Participar
