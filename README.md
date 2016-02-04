@@ -49,7 +49,7 @@ Badge | Link | Participar
 ----- | ---- | ----
 - | [Acessibilidade Web Brasil](http://a11y-brazil.slack.com/) | [Participar](http://a11y-brazil.herokuapp.com/)
 ![Participantes](http://braziljs-slack.herokuapp.com/badge.svg) | [BrazilJS](http://braziljs.slack.com/) | [Participar](http://braziljs-slack.herokuapp.com/)
-- | Dev IO Fortaleza | [Participar](http://deviofor.github.io/)
+- | [Dev IO Fortaleza](https://deviofor.slack.com/) | [Participar](http://deviofor.github.io/)
 ![Participantes](http://devmt.herokuapp.com/badge.svg) | [Dev Mato Grosso](http://devmt.slack.com/) | [Participar](http://devmt.herokuapp.com/)|
 ![Participantes](https://devops-br-slack.herokuapp.com/badge.svg) | [DevOps BR](https://devopsbr.slack.com/) | [Participar](http://devops-br-slack.herokuapp.com)|
 - | [Dev Paraná](http://devparana.slack.com/) | [Participar](http://devparana.herokuapp.com/)|
@@ -80,6 +80,7 @@ Badge | Link | Participar
 Badge | Link | Participar
 ----- | ---- | ----
 - | [WordPress](https://wordpress.slack.com/)|[Participar](https://make.wordpress.org/chat/)
+![Participantes](http://ionicworldwide.herokuapp.com/badge.svg) | [Ionic Worldwide](https://ionic-worldwide.slack.com/)|[Participar](http://ionicworldwide.herokuapp.com/)
 
 ## Outros
 
