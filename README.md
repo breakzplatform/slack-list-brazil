@@ -64,6 +64,7 @@ Badge | Link | Participar
 ![Participantes](http://slack.minasdev.org/badge.svg) | Minas Dev | [Participar](http://slack.minasdev.org/) 
 ![Participantes](https://grudepb.herokuapp.com/badge.svg) | grude-pb | [Participar](https://grudepb.herokuapp.com/)
 - | [DevIsland](http://devisland.com/) | [Participar](https://devisland.stamplayapp.com/)
+![Participantes](http://slack.haskellbr.com/badge.svg) | [HaskellBR](http://haskellbr.com "HaskellBR") | [Participar](https://slack.haskellbr.com)|
 
 ## Empreendedorismo
 
