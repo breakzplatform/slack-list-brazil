@@ -65,6 +65,7 @@ Badge | Link | Participar
 ![Participantes](http://slack.minasdev.org/badge.svg) | Minas Dev | [Participar](http://slack.minasdev.org/) 
 ![Participantes](https://grudepb.herokuapp.com/badge.svg) | grude-pb | [Participar](https://grudepb.herokuapp.com/)
 - | [DevIsland](http://devisland.com/) | [Participar](https://devisland.stamplayapp.com/)
+- | [WebDevBr - Dúvidas e talks](https://webdevbrasil.slack.com) | [Participar](https://webdevbrasil.slack.com)
 
 ## Empreendedorismo
 
@@ -88,7 +89,6 @@ Badge | Link | Participar
 Badge | Link | Participar
 ----- | ---- | ----
 - | Estratégias de Investimento | [Participar](https://docs.google.com/forms/d/17OecElQDB9Fyt56bKQMDdvmwQZnnpQPBFzUOrTDgZJ0/viewform?c=0&w=1)
--  | [Dúvidas e talks (desenvolvimento web e mobile) WebDevBr](https://webdevbrasil.slack.com) | [Participar - botão vermelho, no topo](www.webdevbr.com.br)
 
 ### Contribua
 
