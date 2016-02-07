@@ -3,8 +3,6 @@
 > Curadoria de Slacks no Brasil para você participar.<br>
 > http://jfnj.me/slacks
 
-![Badges](https://badginator.herokuapp.com/joselitojunior1/slack-list-brazil.svg)
-
 ## Desenvolvimento
 
 ### Front-end
