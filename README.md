@@ -27,6 +27,7 @@ Badge | Link | Participar
 - | [Python Brasil](https://pythonbrasil.slack.com) | [Participar](http://slack-pythonbrasil.herokuapp.com/)
 ![Participantes](https://zendbrasil.herokuapp.com/badge.svg) | [Zend Brasil](http://zendbrasil.github.io/) | [Participar](https://zendbrasil.herokuapp.com/)|
 - | Zf-Brasil | [Participar](http://cursozendframework.us9.list-manage1.com/subscribe?u=9db4cec7580bae325d77b71bf&id=a6e2821d9a)
+- | [CakePHP Brasil](https://cakephpbrasil.slack.com) | [Participar](http://slack.cakephpbrasil.com.br/)
 
 ### Mobile
 
@@ -36,7 +37,7 @@ Badge | Link | Participar
 ![Participantes](http://ionicbrazilslack.herokuapp.com/badge.svg) | [Ionic Brazil](http://ionicbrazil.slack.com/) | [Participar](http://ionicbrazilslack.herokuapp.com/)
 ![Participantes](http://iosdevbr.herokuapp.com/badge.svg) | iOS Dev BR | [Participar](http://iosdevbr.herokuapp.com/)
 
-### CMS 
+### CMS
 Badge | Link | Participar
 ----- | ---- | ----
 - | [Magento Br](http://magentobr.slack.com/) | [Participar](https://magentobr.herokuapp.com/)
@@ -60,10 +61,11 @@ Badge | Link | Participar
 - | [Grupo Front ABC](https://github.com/front-abc "Grupo Front ABC") | [Participar](https://slackfrontabc.herokuapp.com)|
 - | [grupy-df](http://grupydf.github.io/) | [Participar](https://grupydf.herokuapp.com)
 - | [grupy-rp]() | [Participar](https://grupyrp.herokuapp.com)
-![Participantes](http://slack.minasdev.org/badge.svg) | Minas Dev | [Participar](http://slack.minasdev.org/) 
+![Participantes](http://slack.minasdev.org/badge.svg) | Minas Dev | [Participar](http://slack.minasdev.org/)
 ![Participantes](https://grudepb.herokuapp.com/badge.svg) | grude-pb | [Participar](https://grudepb.herokuapp.com/)
 - | [DevIsland](http://devisland.com/) | [Participar](https://devisland.stamplayapp.com/)
 ![Participantes](http://slack.haskellbr.com/badge.svg) | [HaskellBR](http://haskellbr.com "HaskellBR") | [Participar](https://slack.haskellbr.com)|
+- | [WebDevBr](https://webdevbrasil.slack.com) | [Participar](https://webdevbrasil.slack.com)
 
 ## Empreendedorismo
 
