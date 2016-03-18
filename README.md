@@ -25,8 +25,6 @@ Badge | Link | Participar
 ![Participantes](https://phpsc-slackin.herokuapp.com/badge.svg) | [PHPSC](http://www.phpsc.com.br) | [Participar](https://phpsc-slackin.herokuapp.com/)
 ![Participantes](https://phpsp-slackin.jelasticlw.com.br/badge.svg) | [PHPSP](http://www.phpsp.org.br) | [Participar](https://phpsp-slackin.jelasticlw.com.br/)
 - | [Python Brasil](https://pythonbrasil.slack.com) | [Participar](http://slack-pythonbrasil.herokuapp.com/)
-![Participantes](https://zendbrasil.herokuapp.com/badge.svg) | [Zend Brasil](http://zendbrasil.github.io/) | [Participar](https://zendbrasil.herokuapp.com/)|
-- | Zf-Brasil | [Participar](http://cursozendframework.us9.list-manage1.com/subscribe?u=9db4cec7580bae325d77b71bf&id=a6e2821d9a)
 - | [CakePHP Brasil](https://cakephpbrasil.slack.com) | [Participar](http://slack.cakephpbrasil.com.br/)
 
 ### Mobile
