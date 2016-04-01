@@ -26,6 +26,8 @@ Badge | Link | Participar
 ![Participantes](https://phpsp-slackin.jelasticlw.com.br/badge.svg) | [PHPSP](http://www.phpsp.org.br) | [Participar](https://phpsp-slackin.jelasticlw.com.br/)
 - | [Python Brasil](https://pythonbrasil.slack.com) | [Participar](http://slack-pythonbrasil.herokuapp.com/)
 - | [CakePHP Brasil](https://cakephpbrasil.slack.com) | [Participar](http://slack.cakephpbrasil.com.br/)
+- | [Go](https://gophers.slack.com/) *canal #brazil | [Participar](https://gophersinvite.herokuapp.com/)
+- | [Elixir](https://elixir-lang.slack.com) *canal #brazil | [Participar](https://elixir-slackin.herokuapp.com/)
 
 ### Mobile
 
