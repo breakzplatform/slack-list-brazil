@@ -28,6 +28,7 @@ Badge | Link | Participar
 - | [CakePHP Brasil](https://cakephpbrasil.slack.com) | [Participar](http://slack.cakephpbrasil.com.br/)
 - | [Go](https://gophers.slack.com/) *canal #brazil | [Participar](https://gophersinvite.herokuapp.com/)
 - | [Elixir](https://elixir-lang.slack.com) *canal #brazil | [Participar](https://elixir-slackin.herokuapp.com/)
+- | [Ruby Talk](https://rubytalk.slack.com/) | [Participar](http://www.rubytalk.net/)
 
 ### Mobile
 
