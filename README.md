@@ -70,6 +70,7 @@ Badge | Link | Participar
 ![Participantes](http://slack.haskellbr.com/badge.svg) | [HaskellBR](http://haskellbr.com "HaskellBR") | [Participar](http://slack.haskellbr.com)|
 - | [WebDevBr](https://webdevbrasil.slack.com) | [Participar](https://webdevbrasil.slack.com)
 - | [Brasil.NET](http://brasildotnet.slack.com) | [Participar](http://brasildotnet.slack.com)
+- | [UX-BH](http://ux-bh.slack.com) | [Participar](http://http://ux-bh.herokuapp.com/)
 
 ## Empreendedorismo
 
