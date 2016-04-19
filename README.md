@@ -39,6 +39,11 @@ Badge | Link | Participar
 ![Participantes](http://ionicbrazilslack.herokuapp.com/badge.svg) | [Ionic Brazil](http://ionicbrazil.slack.com/) | [Participar](http://ionicbrazilslack.herokuapp.com/)
 ![Participantes](http://iosdevbr.herokuapp.com/badge.svg) | iOS Dev BR | [Participar](http://iosdevbr.herokuapp.com/)
 
+### Desenvolvimento desktop
+Badge | Link | Participar
+----- | ---- | ----
+- | [Delphi Brasil](http://delphibrasil.slack.com/) | [Participar](https://delphibrasil.herokuapp.com/)
+
 ### CMS
 Badge | Link | Participar
 ----- | ---- | ----
