@@ -42,7 +42,7 @@ Badge | Link | Participar
 ### Desenvolvimento desktop
 Badge | Link | Participar
 ----- | ---- | ----
-- | [Delphi Brasil](http://delphibrasil.slack.com/) | [Participar](https://delphibrasil.herokuapp.com/)
+![Participantes](http://delphibrasil.herokuapp.com/badge.svg) | [Delphi Brasil](http://delphibrasil.slack.com/) | [Participar](https://delphibrasil.herokuapp.com/)
 
 ### CMS
 Badge | Link | Participar
