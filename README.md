@@ -30,6 +30,7 @@ Badge | Link | Participar
 - | [Go](https://gophers.slack.com/) *canal #brazil | [Participar](https://gophersinvite.herokuapp.com/)
 - | [Elixir](https://elixir-lang.slack.com) *canal #brazil | [Participar](https://elixir-slackin.herokuapp.com/)
 - | [Ruby Talk](https://rubytalk.slack.com/) | [Participar](http://www.rubytalk.net/)
+![Participantes](http://delphibrasil.herokuapp.com/badge.svg) | [Delphi Brasil](http://delphibrasil.slack.com/) | [Participar](https://delphibrasil.herokuapp.com/)
 
 ### Mobile
 
@@ -38,11 +39,6 @@ Badge | Link | Participar
 ![Participantes](http://androiddevbr.herokuapp.com/badge.svg) | [Android Dev BR](http://www.androiddevbr.org) | [Participar](http://slack.androiddevbr.org)
 ![Participantes](http://ionicbrazilslack.herokuapp.com/badge.svg) | [Ionic Brazil](http://ionicbrazil.slack.com/) | [Participar](http://ionicbrazilslack.herokuapp.com/)
 ![Participantes](http://iosdevbr.herokuapp.com/badge.svg) | iOS Dev BR | [Participar](http://iosdevbr.herokuapp.com/)
-
-### Desenvolvimento desktop
-Badge | Link | Participar
------ | ---- | ----
-![Participantes](http://delphibrasil.herokuapp.com/badge.svg) | [Delphi Brasil](http://delphibrasil.slack.com/) | [Participar](https://delphibrasil.herokuapp.com/)
 
 ### CMS
 Badge | Link | Participar
