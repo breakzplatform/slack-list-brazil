@@ -64,7 +64,7 @@ Badge | Link | Participar
 ![Participantes](http://gdgbrazil.herokuapp.com/badge.svg) | [GDG Brasil](http://gdgbrazil.slack.com) | [Participar](http://gdgbrazil.herokuapp.com/)|
 ![Participantes](http://slackfemugabc.herokuapp.com/badge.svg) | [FEMUG-ABC](https://github.com/femug-abc) | [Participar](http://slackfemugabc.herokuapp.com/)|
 - | [grupy-df](http://grupydf.github.io/) | [Participar](https://grupydf.herokuapp.com)
-- | [grupy-rp]() | [Participar](https://grupyrp.herokuapp.com)
+- | [grupy-rp](http://grupyrp.github.io/) | [Participar](https://grupyrp.herokuapp.com)
 ![Participantes](http://slack.minasdev.org/badge.svg) | Minas Dev | [Participar](http://slack.minasdev.org/)
 ![Participantes](https://grudepb.herokuapp.com/badge.svg) | grude-pb | [Participar](https://grudepb.herokuapp.com/)
 - | [DevIsland](http://devisland.com/) | [Participar](https://devisland.stamplayapp.com/)
