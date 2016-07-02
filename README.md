@@ -1,7 +1,11 @@
 ![Slack List Brazil](res/logo.jpg)
 
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
 > Curadoria de Slacks no Brasil para você participar.<br>
 > http://jfnj.me/slacks
+
+> *Mantainer [@jhonmike](https://github.com/jhonmike)*
 
 ## Desenvolvimento
 
