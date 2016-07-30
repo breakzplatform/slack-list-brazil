@@ -43,7 +43,7 @@ Badge | Link | Participar
 ----- | ---- | ----
 ![Participantes](http://androiddevbr.herokuapp.com/badge.svg) | [Android Dev BR](http://www.androiddevbr.org) | [Participar](http://slack.androiddevbr.org)
 ![Participantes](http://ionicbrazilslack.herokuapp.com/badge.svg) | [Ionic Brazil](http://ionicbrazil.slack.com/) | [Participar](http://ionicbrazilslack.herokuapp.com/)
-![Participantes](http://iosdevbr.herokuapp.com/badge.svg) | iOS Dev BR | [Participar](http://iosdevbr.herokuapp.com/)
+![Participantes](http://iosdevbr.herokuapp.com/badge.svg) | [iOS Dev BR](http://www.cocoaheads.com.br) | [Participar](http://iosdevbr.herokuapp.com/)
 
 ### CMS
 Badge | Link | Participar
