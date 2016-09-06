@@ -3,7 +3,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 > Curadoria de Slacks no Brasil para você participar.<br>
-> http://joselitp.pw/slacks
+> http://joselito.pw/slacks
 
 > *Mantainer [@jhonmike](https://github.com/jhonmike)*
 
