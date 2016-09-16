@@ -16,7 +16,7 @@ Badge | Link | Participar
 ![Participantes](https://angularbrasil.herokuapp.com/badge.svg) | [Angular Brasil](http://angularjsbrasil.com.br/) | [Participar](https://angularbrasil.herokuapp.com/)
 ![Participantes](http://aureliabrazil.com.br:3000/badge.svg) | [Aurelia Brazil](http://aureliabrazil.com.br/) | [Participar](http://aureliabrazil.com.br/)
 - | [Angular Buddies](http://angularbuddies.com/) | [Participar](https://pocket1.typeform.com/to/agYVyz)
-![Participantes](https://bootstrapbrasil-slack.herokuapp.com/badge.svg) | [Bootstrap Brasil](http://getbootstrap.com.br/) | [Participar](getbootstrap.com.br/slack)
+![Participantes](https://bootstrapbrasil-slack.herokuapp.com/badge.svg) | [Bootstrap Brasil](http://getbootstrap.com.br/) | [Participar](http://getbootstrap.com.br/slack)
 - | [Vue.js Brasil](https://vuejs-brasil.slack.com/) | [Participar](http://slack.vuejs-brasil.com.br/)
 
 ### Back-end
