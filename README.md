@@ -69,6 +69,7 @@ Badge | Link | Participar
 ![Participantes](http://frontendbrasil-slack.herokuapp.com/badge.svg) | [Front End Brazil](http://frontendbrasil.slack.com/) | [Participar](http://frontendbrasil-slack.herokuapp.com/)
 ![Participantes](https://frontendcampinas.herokuapp.com/badge.svg) | [FrontEnd Campinas](https://frontendcampinas.slack.com) | [Participar](https://frontendcampinas.herokuapp.com/)
 - | [Front UX](http://frontux.com/) | [Participar](https://uxsp.slack.com/messages/geral/)
+![Participantes](https://react-brasil-slack.herokuapp.com/badge.svg) | [React Brasil](https://react-brasil.slack.com) | [Participar](https://react-brasil-slack.herokuapp.com/)
 ![Participantes](http://gdgbrazil.herokuapp.com/badge.svg) | [GDG Brasil](http://gdgbrazil.slack.com) | [Participar](http://gdgbrazil.herokuapp.com/)|
 ![Participantes](http://slackfemugabc.herokuapp.com/badge.svg) | [FEMUG-ABC](https://github.com/femug-abc) | [Participar](http://slackfemugabc.herokuapp.com/)|
 - | [grupy-df](http://grupydf.github.io/) | [Participar](https://grupydf.herokuapp.com)
