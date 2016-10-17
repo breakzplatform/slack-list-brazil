@@ -81,6 +81,8 @@ Badge | Link | Participar
 - | [WebDevBr](https://webdevbrasil.slack.com) | [Participar](https://webdevbrasil.slack.com)
 ![Participantes](http://brasildotnet.herokuapp.com/badge.svg) | [Brasil.NET](http://brasildotnet.slack.com) | [Participar](http://brasildotnet.slack.com)
 - | [UX-BH](http://ux-bh.slack.com) | [Participar](http://http://ux-bh.herokuapp.com/)
+- | [Agilidade](http://agilidade.org/) | [Agilidade](http://agilidade.org/)
+- | [Artesania de Software](https://artesaniadesoftwarebr.herokuapp.com/) | [Artesania de Software](https://artesaniadesoftwarebr.herokuapp.com/)
 
 ## Empreendedorismo
 
