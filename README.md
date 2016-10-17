@@ -28,6 +28,7 @@ Badge | Link | Participar
 - | [Meteor Brasil](https://meteor-brasil.slack.com/) | [Participar](http://meteor-brasil.herokuapp.com)
 - | [.Net Architects](http://dotnetarchitects.slack.com/) | [Participar](http://dotnetarchitects.azurewebsites.net/)
 - | [NodeBR](http://nodebr.slack.com/) | [Participar](https://slack.nodebr.org)
+- | [GoJava](gojavajug.slack.com) | [Participar](goo.gl/forms/a0M1ythc96cBNBuj1)
 - | [PHPMG](http://phpmg.com/) | [Participar](http://slack.phpmg.com/)
 ![Participantes](https://phpsc-slackin.herokuapp.com/badge.svg) | [PHPSC](http://www.phpsc.com.br) | [Participar](https://phpsc-slackin.herokuapp.com/)
 ![Participantes](https://phpsp-slackin.jelasticlw.com.br/badge.svg) | [PHPSP](http://www.phpsp.org.br) | [Participar](https://phpsp-slackin.jelasticlw.com.br/)
