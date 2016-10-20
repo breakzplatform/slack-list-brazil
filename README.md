@@ -81,6 +81,7 @@ Badge | Link | Participar
 - | [WebDevBr](https://webdevbrasil.slack.com) | [Participar](https://webdevbrasil.slack.com)
 ![Participantes](http://brasildotnet.herokuapp.com/badge.svg) | [Brasil.NET](http://brasildotnet.slack.com) | [Participar](http://brasildotnet.slack.com)
 - | [UX-BH](http://ux-bh.slack.com) | [Participar](http://http://ux-bh.herokuapp.com/)
+- | [QA-BR](qa-br.slack.com) | [Participar](https://qabrslack.typeform.com/to/G1pa89)
 
 ## Empreendedorismo
 
