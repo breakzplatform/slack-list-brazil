@@ -28,7 +28,7 @@ Badge | Link | Participar
 - | [NodeBR](http://nodebr.slack.com/) | [Participar](https://slack.nodebr.org)
 - | [GoJava](gojavajug.slack.com) | [Participar](goo.gl/forms/a0M1ythc96cBNBuj1)
 - | [PHPMG](http://phpmg.com/) | [Participar](http://slack.phpmg.com/)
-![Participantes](https://phpsc-slackin.herokuapp.com/badge.svg) | [PHPSC](http://www.phpsc.com.br) | [Participar](https://phpsc-slackin.herokuapp.com/)
+- | [PHPSC](http://www.phpsc.com.br) | [Participar](https://phpsc-slackin.herokuapp.com/)
 - | [PHPSP](http://www.phpsp.org.br) | [Participar](https://phpsp-slackin.jelasticlw.com.br/)
 - | [Python Brasil](https://pythonbrasil.slack.com) | [Participar](http://slack-pythonbrasil.herokuapp.com/)
 - | [CakePHP Brasil](https://cakephpbrasil.slack.com) | [Participar](http://slack.cakephpbrasil.com.br/)
