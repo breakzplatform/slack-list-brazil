@@ -14,8 +14,6 @@
 Badge | Link | Participar
 ----- | ---- | ----
 ![Participantes](https://angularbrasil.herokuapp.com/badge.svg) | [Angular Brasil](http://angularjsbrasil.com.br/) | [Participar](https://angularbrasil.herokuapp.com/)
-![Participantes](http://aureliabrazil.com.br:3000/badge.svg) | [Aurelia Brazil](http://aureliabrazil.com.br/) | [Participar](http://aureliabrazil.com.br/)
-- | [Angular Buddies](http://angularbuddies.com/) | [Participar](https://pocket1.typeform.com/to/agYVyz)
 ![Participantes](https://bootstrapbrasil-slack.herokuapp.com/badge.svg) | [Bootstrap Brasil](http://getbootstrap.com.br/) | [Participar](http://getbootstrap.com.br/slack)
 - | [Vue.js Brasil](https://vuejs-brasil.slack.com/) | [Participar](http://slack.vuejs-brasil.com.br/)
 
@@ -24,14 +22,14 @@ Badge | Link | Participar
 Badge | Link | Participar
 ----- | ---- | ----
 ![Participantes](https://electronbrasil.herokuapp.com/badge.svg) | [Electron Brasil](http://electronbrasil.github.io/) | [Participar](https://electronbrasil.herokuapp.com/)|
-![Participantes](http://slack.laravel.com.br/badge.svg) | [Laravel](https://laravel-br.slack.com) | [Participar](http://slack.laravel.com.br/)
+- | [Laravel](https://laravel-br.slack.com) | [Participar](http://slack.laravel.com.br/)
 - | [Meteor Brasil](https://meteor-brasil.slack.com/) | [Participar](http://meteor-brasil.herokuapp.com)
 - | [.Net Architects](http://dotnetarchitects.slack.com/) | [Participar](http://dotnetarchitects.azurewebsites.net/)
 - | [NodeBR](http://nodebr.slack.com/) | [Participar](https://slack.nodebr.org)
 - | [GoJava](gojavajug.slack.com) | [Participar](goo.gl/forms/a0M1ythc96cBNBuj1)
 - | [PHPMG](http://phpmg.com/) | [Participar](http://slack.phpmg.com/)
-![Participantes](https://phpsc-slackin.herokuapp.com/badge.svg) | [PHPSC](http://www.phpsc.com.br) | [Participar](https://phpsc-slackin.herokuapp.com/)
-![Participantes](https://phpsp-slackin.jelasticlw.com.br/badge.svg) | [PHPSP](http://www.phpsp.org.br) | [Participar](https://phpsp-slackin.jelasticlw.com.br/)
+- | [PHPSC](http://www.phpsc.com.br) | [Participar](https://phpsc-slackin.herokuapp.com/)
+- | [PHPSP](http://www.phpsp.org.br) | [Participar](https://phpsp-slackin.jelasticlw.com.br/)
 - | [Python Brasil](https://pythonbrasil.slack.com) | [Participar](http://slack-pythonbrasil.herokuapp.com/)
 - | [CakePHP Brasil](https://cakephpbrasil.slack.com) | [Participar](http://slack.cakephpbrasil.com.br/)
 - | [Go](https://gophers.slack.com/) *canal #brazil | [Participar](https://gophersinvite.herokuapp.com/)
@@ -72,7 +70,7 @@ Badge | Link | Participar
 - | [Front UX](http://frontux.com/) | [Participar](https://uxsp.slack.com/messages/geral/)
 ![Participantes](https://react-brasil-slack.herokuapp.com/badge.svg) | [React Brasil](https://react-brasil.slack.com) | [Participar](https://react-brasil-slack.herokuapp.com/)
 ![Participantes](http://gdgbrazil.herokuapp.com/badge.svg) | [GDG Brasil](http://gdgbrazil.slack.com) | [Participar](http://gdgbrazil.herokuapp.com/)|
-![Participantes](http://slackfemugabc.herokuapp.com/badge.svg) | [FEMUG-ABC](https://github.com/femug-abc) | [Participar](http://slackfemugabc.herokuapp.com/)|
+- | [FEMUG-ABC](https://github.com/femug-abc) | [Participar](http://slackfemugabc.herokuapp.com/)|
 - | [grupy-df](http://grupydf.github.io/) | [Participar](https://grupydf.herokuapp.com)
 - | [grupy-rp](http://grupyrp.github.io/) | [Participar](https://grupyrp.herokuapp.com)
 ![Participantes](http://slack.minasdev.org/badge.svg) | Minas Dev | [Participar](http://slack.minasdev.org/)
