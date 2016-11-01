@@ -81,6 +81,7 @@ Badge | Link | Participar
 ![Participantes](http://brasildotnet.herokuapp.com/badge.svg) | [Brasil.NET](http://brasildotnet.slack.com) | [Participar](http://brasildotnet.slack.com)
 - | [UX-BH](http://ux-bh.slack.com) | [Participar](http://http://ux-bh.herokuapp.com/)
 - | [QA-BR](qa-br.slack.com) | [Participar](https://qabrslack.typeform.com/to/G1pa89)
+![Participantes](http://slack-opensanca.herokuapp.com/badge.svg) | [opensanca](opensanca.slack.com) | [Participar](https://slack-opensanca.herokuapp.com/)
 
 ## Empreendedorismo
 
