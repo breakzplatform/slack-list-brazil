@@ -102,6 +102,7 @@ Badge | Link | Participar
 - | [FrontEnd Developers](https://feds.slack.com/)|[Participar](http://fedsonslack.com.herokuapp.com/)
 - | [AMP HTML ](https://amphtml.slack.com/)|[Participar](https://docs.google.com/forms/d/e/1FAIpQLSd83J2IZA6cdR6jPwABGsJE8YL4pkypAbKMGgUZZriU7Qu6Tg/viewform?fbzx=4406980310789882877)
 - | [ Laravel ](https://larachat.co/)|[Participar](https://larachat.co/join)
+- | [iOS Developers](http://ios-developers.io)|[Participar](http://ios-developers.io)
 
 ## Outros
 
