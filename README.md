@@ -94,6 +94,7 @@ Badge | Link | Participar
 \- | [Startup Brasil](http://supbra.slack.com/)|[Participar](http://supbra.brunolemos.org/)
 \- | [Startup PE](http://startupe.slack.com) | [Participar](https://startuppe-slack.herokuapp.com/)
 ![Participantes](http://ssg-slack.herokuapp.com/badge.svg) | [Startup Study Group](http://ssg-slack.slack.com) *canal #brazil | [Participar](http://ssg-slack.herokuapp.com/)
+\- | [Vale do Chimarrão](http://valedochimarrao.herokuapp.com/)|[Participar](https://valedochimarrao.slack.com/)
 
 ## Gringos
 
