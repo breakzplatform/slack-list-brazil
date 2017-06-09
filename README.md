@@ -38,6 +38,7 @@ Badge | Link | Participar
 ![Participantes](http://delphibrasil.herokuapp.com/badge.svg) | [Delphi Brasil](http://delphibrasil.slack.com/) | [Participar](https://delphibrasil.herokuapp.com/)
 ![Participantes](http://grupysp.herokuapp.com/badge.svg) | [GruPy-SP](https://grupysp.slack.com/) | [Participar](http://grupysp.herokuapp.com)
 \- | [Java MG](https://www.meetup.com/pt-BR/java-bh/) | [Participar](http://javamg.herokuapp.com/)
+![Participantes](http://scaladores.herokuapp.com/badge.svg) | [Scaladores](https://scaladores.com.br/) | [Participar](http://scaladores.herokuapp.com/)
 
 ### Mobile
 
