@@ -83,6 +83,7 @@ Badge | Link | Participar
 \- | [UX-BH](http://ux-bh.slack.com) | [Participar](http://http://ux-bh.herokuapp.com/)
 \- | [QA-BR](qa-br.slack.com) | [Participar](https://qabrslack.typeform.com/to/G1pa89)
 ![Participantes](http://slack-opensanca.herokuapp.com/badge.svg) | [opensanca](opensanca.slack.com) | [Participar](https://slack-opensanca.herokuapp.com/)
+\- | [Training Center](https://ctgroups.slack.com) | [Participar](http://ctgroups.herokuapp.com/)
 \- | [The Tech Cafe](https://thetechcafe.github.io/) | [Participar](https://techcafe.herokuapp.com/)
 \- | [Training Center](https://github.com/training-center/sobre) | [Participar](https://ctgroups.herokuapp.com)
 
