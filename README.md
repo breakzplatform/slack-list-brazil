@@ -60,7 +60,7 @@ Badge | Link | Participar
 \- | [Acessibilidade Web Brasil](http://a11y-brazil.slack.com/) | [Participar](http://a11y-brazil.herokuapp.com/)
 ![Participantes](http://braziljs-slack.herokuapp.com/badge.svg) | [BrazilJS](http://braziljs.slack.com/) | [Participar](http://braziljs-slack.herokuapp.com/)
 \- | [Slack de Agilidade](http://blog.taller.net.br/guia-do-agilista-wannabe-siglas-da-agilidade/) | [Participar](https://agilidade.typeform.com/to/A80enI)
-\- | [Dev IO Fortaleza](https://deviofor.slack.com/) | [Participar](http://deviofor.github.io/)
+\- | [Dev IO Fortaleza](https://deviofoundation.slack.com/) | [Participar](http://slackin.deviofoundation.org/)
 ![Participantes](http://devmt.herokuapp.com/badge.svg) | [Dev Mato Grosso](http://devmt.slack.com/) | [Participar](http://devmt.herokuapp.com/)|
 ![Participantes](https://devops-br-slack.herokuapp.com/badge.svg) | [DevOps BR](https://devopsbr.slack.com/) | [Participar](http://devops-br-slack.herokuapp.com)|
 \- | [Dev Paraná](http://devparana.slack.com/) | [Participar](http://slack.devparana.org)|
