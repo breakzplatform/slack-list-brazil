@@ -38,6 +38,7 @@ Badge | Link | Participar
 ![Participantes](http://delphibrasil.herokuapp.com/badge.svg) | [Delphi Brasil](http://delphibrasil.slack.com/) | [Participar](https://delphibrasil.herokuapp.com/)
 ![Participantes](http://grupysp.herokuapp.com/badge.svg) | [GruPy-SP](https://grupysp.slack.com/) | [Participar](http://grupysp.herokuapp.com)
 \- | [Java MG](https://www.meetup.com/pt-BR/java-bh/) | [Participar](http://javamg.herokuapp.com/)
+![Participantes](http://scaladores.herokuapp.com/badge.svg) | [Scaladores](https://scaladores.com.br/) | [Participar](http://scaladores.herokuapp.com/)
 
 ### Mobile
 
@@ -60,7 +61,7 @@ Badge | Link | Participar
 \- | [Acessibilidade Web Brasil](http://a11y-brazil.slack.com/) | [Participar](http://a11y-brazil.herokuapp.com/)
 ![Participantes](http://braziljs-slack.herokuapp.com/badge.svg) | [BrazilJS](http://braziljs.slack.com/) | [Participar](http://braziljs-slack.herokuapp.com/)
 \- | [Slack de Agilidade](http://blog.taller.net.br/guia-do-agilista-wannabe-siglas-da-agilidade/) | [Participar](https://agilidade.typeform.com/to/A80enI)
-\- | [Dev IO Fortaleza](https://deviofor.slack.com/) | [Participar](http://deviofor.github.io/)
+\- | [Dev IO Fortaleza](https://deviofoundation.slack.com/) | [Participar](http://slackin.deviofoundation.org/)
 ![Participantes](http://devmt.herokuapp.com/badge.svg) | [Dev Mato Grosso](http://devmt.slack.com/) | [Participar](http://devmt.herokuapp.com/)|
 ![Participantes](https://devops-br-slack.herokuapp.com/badge.svg) | [DevOps BR](https://devopsbr.slack.com/) | [Participar](http://devops-br-slack.herokuapp.com)|
 \- | [Dev Paraná](http://devparana.slack.com/) | [Participar](http://slack.devparana.org)|
@@ -83,8 +84,10 @@ Badge | Link | Participar
 \- | [UX-BH](http://ux-bh.slack.com) | [Participar](http://http://ux-bh.herokuapp.com/)
 \- | [QA-BR](qa-br.slack.com) | [Participar](https://qabrslack.typeform.com/to/G1pa89)
 ![Participantes](http://slack-opensanca.herokuapp.com/badge.svg) | [opensanca](opensanca.slack.com) | [Participar](https://slack-opensanca.herokuapp.com/)
+\- | [Training Center](https://ctgroups.slack.com) | [Participar](http://ctgroups.herokuapp.com/)
 \- | [The Tech Cafe](https://thetechcafe.github.io/) | [Participar](https://techcafe.herokuapp.com/)
 \- | [ITerior](http://iterior.com.br/) | [Participar](https://iterior-slack.herokuapp.com/)
+\- | [Training Center](https://github.com/training-center/sobre) | [Participar](https://ctgroups.herokuapp.com)
 
 ## Empreendedorismo
 
@@ -95,6 +98,7 @@ Badge | Link | Participar
 \- | [Startup Brasil](http://supbra.slack.com/)|[Participar](http://supbra.brunolemos.org/)
 \- | [Startup PE](http://startupe.slack.com) | [Participar](https://startuppe-slack.herokuapp.com/)
 ![Participantes](http://ssg-slack.herokuapp.com/badge.svg) | [Startup Study Group](http://ssg-slack.slack.com) *canal #brazil | [Participar](http://ssg-slack.herokuapp.com/)
+\- | [Vale do Chimarrão](http://valedochimarrao.herokuapp.com/)|[Participar](https://valedochimarrao.slack.com/)
 
 ## Gringos
 
@@ -106,6 +110,7 @@ Badge | Link | Participar
 \- | [AMP HTML ](https://amphtml.slack.com/)|[Participar](https://docs.google.com/forms/d/e/1FAIpQLSd83J2IZA6cdR6jPwABGsJE8YL4pkypAbKMGgUZZriU7Qu6Tg/viewform?fbzx=4406980310789882877)
 \- | [ Laravel ](https://larachat.co/)|[Participar](https://larachat.co/join)
 \- | [iOS Developers](http://ios-developers.io)|[Participar](http://ios-developers.io)
+\- | [MongoDB Community](https://mongo-db.slack.com) | [Participar](https://mongo-db.slack.com)
 
 ## Outros
 
