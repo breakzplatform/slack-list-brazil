@@ -87,6 +87,7 @@ Badge | Link | Participar
 \- | [Training Center](https://ctgroups.slack.com) | [Participar](http://ctgroups.herokuapp.com/)
 \- | [The Tech Cafe](https://thetechcafe.github.io/) | [Participar](https://techcafe.herokuapp.com/)
 \- | [Training Center](https://github.com/training-center/sobre) | [Participar](https://ctgroups.herokuapp.com)
+\- | [Hack.river](http://hackriver.com.br/) | [Participar](http://slack.hackriver.com.br/)|
 
 ## Empreendedorismo
 
