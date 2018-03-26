@@ -87,6 +87,7 @@ Badge | Link | Participar
 \- | [Training Center](https://ctgroups.slack.com) | [Participar](http://ctgroups.herokuapp.com/)
 \- | [The Tech Cafe](https://thetechcafe.github.io/) | [Participar](https://techcafe.herokuapp.com/)
 \- | [Training Center](https://github.com/training-center/sobre) | [Participar](https://ctgroups.herokuapp.com)
+\- | [BackEnd Brasil](https://github.com/backend-br) | [Participar](https://join.slack.com/t/backend-br/shared_invite/enQtMjQyOTM1MjQ5OTcyLTA1NTJiODM5YTA2YzYyZDUyMGRiNTc1NjAwODNhYTQ3OTlkYjE2ZDllMTc2MzlmNzFmOTI4Mzc2NWFhNzE2OTg)
 
 ## Empreendedorismo
 
