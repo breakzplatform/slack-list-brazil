@@ -118,6 +118,7 @@ Badge | Link | Participar
 ----- | ---- | ----
 \- | Estratégias de Investimento | [Participar](https://docs.google.com/forms/d/17OecElQDB9Fyt56bKQMDdvmwQZnnpQPBFzUOrTDgZJ0/viewform?c=0&w=1)
 \- | nacafeteria | [Participar](http://nacafeteria-slack.herokuapp.com/)
+\- | Qanda Perguntas | [Participar](https://docs.google.com/forms/d/e/1FAIpQLSeIwPTXnbyQa3PVoZNSoQb6Q19qcUroN-NOlgtZLWYivgc0Xw/viewform?c=0&w=1)
 
 ### Contribua
 
