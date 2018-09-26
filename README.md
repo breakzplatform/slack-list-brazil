@@ -2,8 +2,7 @@
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-> Curadoria de Slacks no Brasil para você participar.<br>
-> http://joselito.pw/slacks
+> Curadoria de Slacks no Brasil para você participar.
 
 ## Desenvolvimento
 
