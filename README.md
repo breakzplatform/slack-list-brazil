@@ -86,6 +86,7 @@ Badge | Link | Participar
 ![Participantes](http://slack-opensanca.herokuapp.com/badge.svg) | [opensanca](opensanca.slack.com) | [Participar](https://slack-opensanca.herokuapp.com/)
 \- | [Training Center](https://ctgroups.slack.com) | [Participar](http://ctgroups.herokuapp.com/)
 \- | [The Tech Cafe](https://thetechcafe.github.io/) | [Participar](https://techcafe.herokuapp.com/)
+\- | [ITerior](http://iterior.com.br/) | [Participar](https://iterior-slack.herokuapp.com/)
 \- | [Training Center](https://github.com/training-center/sobre) | [Participar](https://ctgroups.herokuapp.com)
 \- | [Hack.river](http://hackriver.com.br/) | [Participar](http://slack.hackriver.com.br/)|
 \- | [Agilidade](http://agilidade.org/) | [Agilidade](http://agilidade.org/)
