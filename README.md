@@ -88,6 +88,8 @@ Badge | Link | Participar
 \- | [The Tech Cafe](https://thetechcafe.github.io/) | [Participar](https://techcafe.herokuapp.com/)
 \- | [Training Center](https://github.com/training-center/sobre) | [Participar](https://ctgroups.herokuapp.com)
 \- | [Hack.river](http://hackriver.com.br/) | [Participar](http://slack.hackriver.com.br/)|
+\- | [Agilidade](http://agilidade.org/) | [Agilidade](http://agilidade.org/)
+\- | [Artesania de Software](https://artesaniadesoftwarebr.herokuapp.com/) | [Artesania de Software](https://artesaniadesoftwarebr.herokuapp.com/)
 
 ## Empreendedorismo
 
@@ -99,7 +101,7 @@ Badge | Link | Participar
 \- | [Startup PE](http://startupe.slack.com) | [Participar](https://startuppe-slack.herokuapp.com/)
 ![Participantes](http://ssg-slack.herokuapp.com/badge.svg) | [Startup Study Group](http://ssg-slack.slack.com) *canal #brazil | [Participar](http://ssg-slack.herokuapp.com/)
 \- | [Vale do Chimarrão](http://valedochimarrao.herokuapp.com/)|[Participar](https://valedochimarrao.slack.com/)
-
+\- | [Startupeiros de Brasilia](https://startupeiro.slack.com/) | [Participar](http://bit.ly/startupeiroslack)
 ## Gringos
 
 Badge | Link | Participar
