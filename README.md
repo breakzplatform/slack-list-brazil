@@ -14,7 +14,7 @@
 Badge | Link | Participar
 ----- | ---- | ----
 ![Participantes](https://angularbrasil.herokuapp.com/badge.svg) | [Angular Brasil](http://angularjsbrasil.com.br/) | [Participar](https://angularbrasil.herokuapp.com/)
-![Participantes](https://bootstrapbrasil-slack.herokuapp.com/badge.svg) | [Bootstrap Brasil](http://getbootstrap.com.br/) | [Participar](http://getbootstrap.com.br/slack) 
+![Participantes](https://bootstrapbrasil-slack.herokuapp.com/badge.svg) | [Bootstrap Brasil](http://getbootstrap.com.br/) | [Participar](http://getbootstrap.com.br/slack)
 \- | [Vue.js Brasil](https://vuejs-brasil.slack.com/) | [Participar](http://slack.vuejs-brasil.com.br/)
 
 ### Back-end
@@ -28,12 +28,12 @@ Badge | Link | Participar
 \- | [NodeBR](http://nodebr.slack.com/) | [Participar](https://slack.nodebr.org)
 \- | [GoJava](gojavajug.slack.com) | [Participar](goo.gl/forms/a0M1ythc96cBNBuj1)
 \- | [PHPMG](http://phpmg.com/) | [Participar](http://slack.phpmg.com/)
-\- | [PHPSC](http://www.phpsc.com.br) | [Participar](https://phpsc-slackin.herokuapp.com/)
-\- | [PHPSP](http://www.phpsp.org.br) | [Participar](https://phpsp-slackin.jelasticlw.com.br/)
+![Participantes](https://phpsc-slackin.herokuapp.com/badge.svg) | [PHPSC](http://www.phpsc.com.br) | [Participar](https://phpsc-slackin.herokuapp.com/)
+![Participantes](https://phpsp-slackin.jelasticlw.com.br/badge.svg) | [PHPSP](http://www.phpsp.org.br) | [Participar](https://phpsp-slackin.jelasticlw.com.br/)
 \- | [Python Brasil](https://pythonbrasil.slack.com) | [Participar](http://slack-pythonbrasil.herokuapp.com/)
 \- | [CakePHP Brasil](https://cakephpbrasil.slack.com) | [Participar](http://slack.cakephpbrasil.com.br/)
 \- | [Go](https://gophers.slack.com/) *canal #brazil | [Participar](https://gophersinvite.herokuapp.com/)
-\- | [Elixir](https://elixir-lang.slack.com) *canal #brazil | [Participar](https://elixir-slackin.herokuapp.com/)
+![Participantes](https://elixir-slackin.herokuapp.com/badge.svg) | [Elixir](https://elixir-lang.slack.com) *canal #brazil | [Participar](https://elixir-slackin.herokuapp.com/)
 \- | [Ruby Talk](https://rubytalk.slack.com/) | [Participar](http://www.rubytalk.net/)
 ![Participantes](http://delphibrasil.herokuapp.com/badge.svg) | [Delphi Brasil](http://delphibrasil.slack.com/) | [Participar](https://delphibrasil.herokuapp.com/)
 ![Participantes](http://grupysp.herokuapp.com/badge.svg) | [GruPy-SP](https://grupysp.slack.com/) | [Participar](http://grupysp.herokuapp.com)
@@ -119,7 +119,7 @@ Badge | Link | Participar
 Badge | Link | Participar
 ----- | ---- | ----
 \- | Estratégias de Investimento | [Participar](https://docs.google.com/forms/d/17OecElQDB9Fyt56bKQMDdvmwQZnnpQPBFzUOrTDgZJ0/viewform?c=0&w=1)
-\- | nacafeteria | [Participar](http://nacafeteria-slack.herokuapp.com/)
+![Participantes](http://nacafeteria-slack.herokuapp.com/badge.svg) | nacafeteria | [Participar](http://nacafeteria-slack.herokuapp.com/)
 
 ### Contribua
 
