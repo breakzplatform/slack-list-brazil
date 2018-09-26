@@ -89,6 +89,7 @@ Badge | Link | Participar
 \- | [The Tech Cafe](https://thetechcafe.github.io/) | [Participar](https://techcafe.herokuapp.com/)
 \- | [Training Center](https://github.com/training-center/sobre) | [Participar](https://ctgroups.herokuapp.com)
 \- | [Hack.river](http://hackriver.com.br/) | [Participar](http://slack.hackriver.com.br/)|
+\- | [UX VIX](https://www.meetup.com/pt-BR/UX-Vix/) | [Participar](http://ux-es.slack.com)|
 \- | [Agilidade](http://agilidade.org/) | [Agilidade](http://agilidade.org/)
 \- | [Artesania de Software](https://artesaniadesoftwarebr.herokuapp.com/) | [Artesania de Software](https://artesaniadesoftwarebr.herokuapp.com/)
 
