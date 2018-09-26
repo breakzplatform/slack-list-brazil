@@ -63,6 +63,7 @@ Badge | Link | Participar
 \- | [Slack de Agilidade](http://blog.taller.net.br/guia-do-agilista-wannabe-siglas-da-agilidade/) | [Participar](https://agilidade.typeform.com/to/A80enI)
 \- | [Dev IO Fortaleza](https://deviofoundation.slack.com/) | [Participar](http://slackin.deviofoundation.org/)
 ![Participantes](http://devmt.herokuapp.com/badge.svg) | [Dev Mato Grosso](http://devmt.slack.com/) | [Participar](http://devmt.herokuapp.com/)|
+![Participantes](https://devpp-slack.herokuapp.com/badge.svg) | [Dev PP](http://devpp.tech) | [Participar](https://devpp-slack.herokuapp.com)|
 ![Participantes](https://devops-br-slack.herokuapp.com/badge.svg) | [DevOps BR](https://devopsbr.slack.com/) | [Participar](http://devops-br-slack.herokuapp.com)|
 \- | [Dev Paraná](http://devparana.slack.com/) | [Participar](http://slack.devparana.org)|
 \- | [Dev RJ](https://devrj.slack.com/) | [Participar](https://devrj.slack.com/)|
