@@ -41,6 +41,7 @@ Badge | Link | Participar
 ![Participantes](http://grupysp.herokuapp.com/badge.svg) | [GruPy-SP](https://grupysp.slack.com/) | [Participar](http://grupysp.herokuapp.com)
 \- | [Java MG](https://www.meetup.com/pt-BR/java-bh/) | [Participar](http://javamg.herokuapp.com/)
 ![Participantes](http://scaladores.herokuapp.com/badge.svg) | [Scaladores](https://scaladores.com.br/) | [Participar](http://scaladores.herokuapp.com/)
+\- | [PHPBauru](https://phpbauru.slack.com) | [Participar](http://phpbauru.com.br/)
 
 ### Mobile
 
