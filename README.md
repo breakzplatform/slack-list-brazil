@@ -5,8 +5,6 @@
 > Curadoria de Slacks no Brasil para você participar.<br>
 > http://joselito.pw/slacks
 
-> *Mantainer [@jhonmike](https://github.com/jhonmike)*
-
 ## Desenvolvimento
 
 ### Front-end
