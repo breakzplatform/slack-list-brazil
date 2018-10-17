@@ -10,7 +10,7 @@
 
 Badge | Link | Participar
 ----- | ---- | ----
-![Participantes](https://angularbrasil.herokuapp.com/badge.svg) | [Angular Brasil](http://angularjsbrasil.com.br/) | [Participar](https://angularbrasil.herokuapp.com/)
+\- | [Angular Brasil](http://angularjsbrasil.com.br/) | [Participar](https://angularbrasil.herokuapp.com/)
 ![Participantes](https://bootstrapbrasil-slack.herokuapp.com/badge.svg) | [Bootstrap Brasil](http://getbootstrap.com.br/) | [Participar](http://getbootstrap.com.br/slack)
 \- | [Vue.js Brasil](https://vuejs-brasil.slack.com/) | [Participar](http://slack.vuejs-brasil.com.br/)
 \- | [FrontUX Brasil](https://uxsp.slack.com/) | [Participar](https://uxsp.slack.com/signup)
@@ -28,7 +28,7 @@ Badge | Link | Participar
 \- | [GoJava](gojavajug.slack.com) | [Participar](goo.gl/forms/a0M1ythc96cBNBuj1)
 \- | [PHPMG](http://phpmg.com/) | [Participar](http://slack.phpmg.com/)
 ![Participantes](https://phpsc-slackin.herokuapp.com/badge.svg) | [PHPSC](http://www.phpsc.com.br) | [Participar](https://phpsc-slackin.herokuapp.com/)
-![Participantes](https://phpsp-slackin.jelasticlw.com.br/badge.svg) | [PHPSP](http://www.phpsp.org.br) | [Participar](https://phpsp-slackin.jelasticlw.com.br/)
+\- | [PHPSP](http://www.phpsp.org.br) | [Participar](https://phpsp-slackin.jelasticlw.com.br/)
 \- | [Python Brasil](https://pythonbrasil.slack.com) | [Participar](http://slack-pythonbrasil.herokuapp.com/)
 \- | [CakePHP Brasil](https://cakephpbrasil.slack.com) | [Participar](http://slack.cakephpbrasil.com.br/)
 \- | [Go](https://gophers.slack.com/) *canal #brazil | [Participar](https://gophersinvite.herokuapp.com/)
@@ -76,10 +76,10 @@ Badge | Link | Participar
 \- | [FEMUG-ABC](https://github.com/femug-abc) | [Participar](http://slackfemugabc.herokuapp.com/)|
 \- | [grupy-df](http://grupydf.github.io/) | [Participar](https://grupydf.herokuapp.com)
 \- | [grupy-rp](http://grupyrp.github.io/) | [Participar](https://grupyrp.herokuapp.com)
-![Participantes](http://slack.minasdev.org/badge.svg) | Minas Dev | [Participar](http://slack.minasdev.org/)
+\- | [Minas Dev](https://minasdev.org/) | [Participar](http://slack.minasdev.org/)
 ![Participantes](https://grudepb.herokuapp.com/badge.svg) | grude-pb | [Participar](https://grudepb.herokuapp.com/)
 \- | [DevIsland](http://devisland.com/) | [Participar](https://devisland.stamplayapp.com/)
-![Participantes](http://slack.haskellbr.com/badge.svg) | [HaskellBR](http://haskellbr.com "HaskellBR") | [Participar](http://slack.haskellbr.com)|
+\- | [HaskellBR](http://haskellbr.com "HaskellBR") | [Participar](http://slack.haskellbr.com)|
 \- | [WebDevBr](https://webdevbrasil.slack.com) | [Participar](https://webdevbrasil.slack.com)
 ![Participantes](http://brasildotnet.herokuapp.com/badge.svg) | [Brasil.NET](http://brasildotnet.slack.com) | [Participar](http://brasildotnet.slack.com)
 \- | [UX-BH](http://ux-bh.slack.com) | [Participar](http://http://ux-bh.herokuapp.com/)
@@ -101,7 +101,7 @@ Badge | Link | Participar
 \- | [Carreira Solo](https://carreirasolo-org.slack.com/)|[Participar](https://carreirasolo-org.slack.com/)
 \- | [Startup Brasil](http://supbra.slack.com/)|[Participar](http://supbra.brunolemos.org/)
 \- | [Startup PE](http://startupe.slack.com) | [Participar](https://startuppe-slack.herokuapp.com/)
-![Participantes](http://ssg-slack.herokuapp.com/badge.svg) | [Startup Study Group](http://ssg-slack.slack.com) *canal #brazil | [Participar](http://ssg-slack.herokuapp.com/)
+\- | [Startup Study Group](http://ssg-slack.slack.com) *canal #brazil | [Participar](http://ssg-slack.herokuapp.com/)
 \- | [Vale do Chimarrão](http://valedochimarrao.herokuapp.com/)|[Participar](https://valedochimarrao.slack.com/)
 \- | [Startupeiros de Brasilia](https://startupeiro.slack.com/) | [Participar](http://bit.ly/startupeiroslack)
 ## Gringos
@@ -121,7 +121,7 @@ Badge | Link | Participar
 Badge | Link | Participar
 ----- | ---- | ----
 \- | Estratégias de Investimento | [Participar](https://docs.google.com/forms/d/17OecElQDB9Fyt56bKQMDdvmwQZnnpQPBFzUOrTDgZJ0/viewform?c=0&w=1)
-![Participantes](http://nacafeteria-slack.herokuapp.com/badge.svg) | nacafeteria | [Participar](http://nacafeteria-slack.herokuapp.com/)
+\- | nacafeteria | [Participar](http://nacafeteria-slack.herokuapp.com/)
 
 ### Contribua
 
