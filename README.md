@@ -92,7 +92,7 @@ Badge | Link | Participar
 \- | [UX VIX](https://www.meetup.com/pt-BR/UX-Vix/) | [Participar](http://ux-es.slack.com)|
 \- | [Agilidade](http://agilidade.org/) | [Agilidade](http://agilidade.org/)
 \- | [Artesania de Software](https://artesaniadesoftwarebr.herokuapp.com/) | [Artesania de Software](https://artesaniadesoftwarebr.herokuapp.com/)
-\- | [Criciúma Dev](http://criciumadev.slack.com) | [Participar](http://criciumadev.slack.com)
+\- | [Criciúma Dev](http://criciumadev.slack.com) | [Participar](https://slack.criciumadev.com.br/)
 
 ## Empreendedorismo
 
