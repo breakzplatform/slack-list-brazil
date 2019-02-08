@@ -122,6 +122,7 @@ Badge | Link | Participar
 ----- | ---- | ----
 \- | Estratégias de Investimento | [Participar](https://docs.google.com/forms/d/17OecElQDB9Fyt56bKQMDdvmwQZnnpQPBFzUOrTDgZJ0/viewform?c=0&w=1)
 \- | nacafeteria | [Participar](http://nacafeteria-slack.herokuapp.com/)
+\- | Podcasters | [Participar](https://publicslack.com/slacks/podcastersbr/invites/new)
 
 ### Contribua
 
