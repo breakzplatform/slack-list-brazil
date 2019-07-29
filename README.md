@@ -66,6 +66,7 @@ Badge | Link | Participar
 ![Participantes](https://devpp-slack.herokuapp.com/badge.svg) | [Dev PP](http://devpp.tech) | [Participar](https://devpp-slack.herokuapp.com)|
 ![Participantes](https://devops-br-slack.herokuapp.com/badge.svg) | [DevOps BR](https://devopsbr.slack.com/) | [Participar](http://devops-br-slack.herokuapp.com)|
 \- | [Dev Paraná](http://devparana.slack.com/) | [Participar](http://slack.devparana.org)|
+\- | [Dev Espirito Santo](https://github.com/Dev-ES) | [Participar](https://devescom.herokuapp.com/)|
 \- | [Dev RJ](https://devrj.slack.com/) | [Participar](https://devrj.slack.com/)|
 ![Participantes](http://docker-br.herokuapp.com/badge.svg) | Docker-BR | [Participar](http://docker-br.herokuapp.com/)|
 ![Participantes](http://frontendbrasil-slack.herokuapp.com/badge.svg) | [Front End Brazil](http://frontendbrasil.slack.com/) | [Participar](http://frontendbrasil-slack.herokuapp.com/)
