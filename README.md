@@ -12,6 +12,7 @@ Badge | Link | Participar
 ----- | ---- | ----
 \- | [Angular Brasil](http://angularjsbrasil.com.br/) | [Participar](https://angularbrasil.herokuapp.com/)
 ![Participantes](https://bootstrapbrasil-slack.herokuapp.com/badge.svg) | [Bootstrap Brasil](http://getbootstrap.com.br/) | [Participar](http://getbootstrap.com.br/slack)
+![Participantes](https://react-brasil-slack.herokuapp.com/badge.svg) | [React Brasil](https://github.com/react-brasil) | [Participar](https://react.now.sh)
 \- | [Vue.js Brasil](https://vuejs-brasil.slack.com/) | [Participar](http://slack.vuejs-brasil.com.br/)
 \- | [FrontUX Brasil](https://uxsp.slack.com/) | [Participar](https://uxsp.slack.com/signup)
 
