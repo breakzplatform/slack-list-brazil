@@ -35,7 +35,6 @@ Badge | Link | Participar
 ![Participantes](https://elixir-slackin.herokuapp.com/badge.svg) | [Elixir](https://elixir-lang.slack.com) *canal #brazil | [Participar](https://elixir-slackin.herokuapp.com/)
 \- | [Ruby Talk](https://rubytalk.slack.com/) | [Participar](http://www.rubytalk.net/)
 ![Participantes](http://delphibrasil.herokuapp.com/badge.svg) | [Delphi Brasil](http://delphibrasil.slack.com/) | [Participar](https://delphibrasil.herokuapp.com/)
-![Participantes](http://grupysp.herokuapp.com/badge.svg) | [GruPy-SP](https://grupysp.slack.com/) | [Participar](http://grupysp.herokuapp.com)
 \- | [Java MG](https://www.meetup.com/pt-BR/java-bh/) | [Participar](http://javamg.herokuapp.com/)
 ![Participantes](http://scaladores.herokuapp.com/badge.svg) | [Scaladores](https://scaladores.com.br/) | [Participar](http://scaladores.herokuapp.com/)
 \- | [PHPBauru](https://phpbauru.slack.com) | [Participar](http://phpbauru.com.br/)
